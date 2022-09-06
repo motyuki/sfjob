@@ -1,0 +1,146 @@
+@charset "UTF-8";
+body{
+    margin: 0px;
+}
+.top{
+    background-image:url(https://drive.google.com/uc?export=download&id=1zKxixV76KwWj3g9jAjIjNZUIOfK73o-v);
+    background-size: cover;
+    height: 900px;
+    
+}
+.header-margin{
+    margin: 0 auto;
+    width: 1200px;
+}
+.topl{
+    font-family: serif;
+    font-size: 120px;
+    color: white;
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 80px;
+}
+.mmm{
+    padding-top: 40px;
+
+}
+.header-logo p{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    
+}
+.article{
+    margin-top: 30px;
+}
+.article-h{
+    font-family: serif;
+    font-size: 60px;
+}
+.article-margin{
+    margin: 0 auto;
+    width: 1000px;
+
+}
+.article-logo{
+    text-align: center;
+}
+.article-p{
+    font-size: 20px;
+    font-family: serif;
+}
+.item{
+    font-family: serif;
+    padding-top: 40px;
+}
+.item-margin{
+    margin: 0 auto;
+    width: 1200px;
+}
+.item-flex{
+    display: flex;
+}
+.items{
+    gap:30px;
+    display: flex;
+}
+.itemp{
+    width: 30%;
+}
+.items img{
+    width: 100%;
+    height: 280px;
+}
+.fff{
+    text-align: center;
+    font-size: 40px;
+    border-bottom: 1px solid blue;
+}
+.itemp p{
+    text-align: center;
+}
+.center-logo{
+    text-align: center;
+    font-family: serif;
+    padding-top: 90px;
+    
+
+}
+.left{
+    width: 60%;
+    padding-top: 40px;
+}
+.right{
+    width: 40%;
+    padding-top: 40px;
+}
+.right img{
+    width: 90%;
+    height: 300px;
+}
+.in{
+    font-size: 60px;
+}
+.information{
+    font-family: serif;
+}
+.center-logo p{
+    font-size: 30px;
+}
+.place-margin{
+    margin: 0 auto;
+    width: 1000px;
+}
+.place-logo{
+    text-align: left;
+    font-size: 45px;
+    border-bottom: 1px solid blue;
+}
+.place-flex{
+    display: flex;
+}
+.top-information{
+    padding-top: 30px;
+    
+}
+.top-time{
+    padding-top: 30px;
+    font-size: 30px;
+}
+.top-date{
+    font-size: 30px;
+}
+.money{
+    font-size: 30px;
+}
+footer{
+    background-color: beige;
+    
+}
+.iii{
+    text-align: center;
+    font-family: serif;
+    margin: 0px;
+    padding:20px;
+}
